@@ -1,0 +1,16 @@
+C:\Users\pana_\Desktop\bilge adam\6. Hafta(14.06.2022-17.06.2022) 5 gun\1. Gun\MesafeAdimUygulamasi\MesafeAdimUygulamasi\bin\Debug\net5.0\MesafeAdimUygulamasi.exe
+C:\Users\pana_\Desktop\bilge adam\6. Hafta(14.06.2022-17.06.2022) 5 gun\1. Gun\MesafeAdimUygulamasi\MesafeAdimUygulamasi\bin\Debug\net5.0\MesafeAdimUygulamasi.deps.json
+C:\Users\pana_\Desktop\bilge adam\6. Hafta(14.06.2022-17.06.2022) 5 gun\1. Gun\MesafeAdimUygulamasi\MesafeAdimUygulamasi\bin\Debug\net5.0\MesafeAdimUygulamasi.runtimeconfig.json
+C:\Users\pana_\Desktop\bilge adam\6. Hafta(14.06.2022-17.06.2022) 5 gun\1. Gun\MesafeAdimUygulamasi\MesafeAdimUygulamasi\bin\Debug\net5.0\MesafeAdimUygulamasi.runtimeconfig.dev.json
+C:\Users\pana_\Desktop\bilge adam\6. Hafta(14.06.2022-17.06.2022) 5 gun\1. Gun\MesafeAdimUygulamasi\MesafeAdimUygulamasi\bin\Debug\net5.0\MesafeAdimUygulamasi.dll
+C:\Users\pana_\Desktop\bilge adam\6. Hafta(14.06.2022-17.06.2022) 5 gun\1. Gun\MesafeAdimUygulamasi\MesafeAdimUygulamasi\bin\Debug\net5.0\ref\MesafeAdimUygulamasi.dll
+C:\Users\pana_\Desktop\bilge adam\6. Hafta(14.06.2022-17.06.2022) 5 gun\1. Gun\MesafeAdimUygulamasi\MesafeAdimUygulamasi\bin\Debug\net5.0\MesafeAdimUygulamasi.pdb
+C:\Users\pana_\Desktop\bilge adam\6. Hafta(14.06.2022-17.06.2022) 5 gun\1. Gun\MesafeAdimUygulamasi\MesafeAdimUygulamasi\obj\Debug\net5.0\MesafeAdimUygulamasi.csproj.AssemblyReference.cache
+C:\Users\pana_\Desktop\bilge adam\6. Hafta(14.06.2022-17.06.2022) 5 gun\1. Gun\MesafeAdimUygulamasi\MesafeAdimUygulamasi\obj\Debug\net5.0\MesafeAdimUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pana_\Desktop\bilge adam\6. Hafta(14.06.2022-17.06.2022) 5 gun\1. Gun\MesafeAdimUygulamasi\MesafeAdimUygulamasi\obj\Debug\net5.0\MesafeAdimUygulamasi.AssemblyInfoInputs.cache
+C:\Users\pana_\Desktop\bilge adam\6. Hafta(14.06.2022-17.06.2022) 5 gun\1. Gun\MesafeAdimUygulamasi\MesafeAdimUygulamasi\obj\Debug\net5.0\MesafeAdimUygulamasi.AssemblyInfo.cs
+C:\Users\pana_\Desktop\bilge adam\6. Hafta(14.06.2022-17.06.2022) 5 gun\1. Gun\MesafeAdimUygulamasi\MesafeAdimUygulamasi\obj\Debug\net5.0\MesafeAdimUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\pana_\Desktop\bilge adam\6. Hafta(14.06.2022-17.06.2022) 5 gun\1. Gun\MesafeAdimUygulamasi\MesafeAdimUygulamasi\obj\Debug\net5.0\MesafeAdimUygulamasi.dll
+C:\Users\pana_\Desktop\bilge adam\6. Hafta(14.06.2022-17.06.2022) 5 gun\1. Gun\MesafeAdimUygulamasi\MesafeAdimUygulamasi\obj\Debug\net5.0\ref\MesafeAdimUygulamasi.dll
+C:\Users\pana_\Desktop\bilge adam\6. Hafta(14.06.2022-17.06.2022) 5 gun\1. Gun\MesafeAdimUygulamasi\MesafeAdimUygulamasi\obj\Debug\net5.0\MesafeAdimUygulamasi.pdb
+C:\Users\pana_\Desktop\bilge adam\6. Hafta(14.06.2022-17.06.2022) 5 gun\1. Gun\MesafeAdimUygulamasi\MesafeAdimUygulamasi\obj\Debug\net5.0\MesafeAdimUygulamasi.genruntimeconfig.cache
